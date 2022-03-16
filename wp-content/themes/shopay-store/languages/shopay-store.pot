@@ -1,0 +1,613 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Shopay Store\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-15 08:27+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.6; wp-5.6"
+
+#: inc/mt-theme-settings.php:526
+msgid "$59.99"
+msgstr ""
+
+#: inc/mt-theme-settings.php:535 inc/mt-theme-settings.php:545
+msgid "1"
+msgstr ""
+
+#: inc/mt-theme-settings.php:565
+msgid "2"
+msgstr ""
+
+#: inc/mt-theme-settings.php:536 inc/mt-theme-settings.php:540
+#: inc/mt-theme-settings.php:546
+msgid "3"
+msgstr ""
+
+#: inc/mt-theme-settings.php:541
+msgid "5"
+msgstr ""
+
+#: inc/mt-theme-settings.php:566
+msgid "800+"
+msgstr ""
+
+#: inc/mt-theme-settings.php:128
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: inc/mt-theme-settings.php:778
+msgid "Activate Now"
+msgstr ""
+
+#: inc/mt-theme-settings.php:777
+msgid "Activated"
+msgstr ""
+
+#: inc/mt-theme-settings.php:777
+msgid "Activating"
+msgstr ""
+
+#: inc/customizer.php:78
+msgid "Add another description for service item."
+msgstr ""
+
+#: inc/customizer.php:73
+msgid "Add description for service item."
+msgstr ""
+
+#: inc/customizer.php:62
+msgid "Add New Service"
+msgstr ""
+
+#: inc/widgets/sps-slider-widget.php:139
+msgid "Add to cart"
+msgstr ""
+
+#: inc/mt-theme-settings.php:539
+msgid "Archive Pages Layouts"
+msgstr ""
+
+#: inc/widgets/sps-slider-widget.php:217
+msgid "Button Label"
+msgstr ""
+
+#: inc/widgets/sps-slider-widget.php:223
+msgid "Button Link"
+msgstr ""
+
+#: inc/mt-theme-settings.php:421
+msgid "Buy Now"
+msgstr ""
+
+#: inc/mt-theme-settings.php:587
+msgid "Buy Pro"
+msgstr ""
+
+#: inc/widgets/sps-slider-widget.php:86
+msgid "Category type"
+msgstr ""
+
+#: inc/mt-theme-settings.php:214
+msgid "Changelog"
+msgstr ""
+
+#: inc/mt-theme-settings.php:132
+msgid "Cheat in &#8217; huh?"
+msgstr ""
+
+#: inc/widgets/sps-slider-widget.php:160
+msgid "Checked to show featured section under slider."
+msgstr ""
+
+#: inc/customizer.php:68
+msgid "Choose required icon from available list."
+msgstr ""
+
+#: inc/widgets/sps-slider-widget.php:88
+msgid "Choose the category type to display on slider."
+msgstr ""
+
+#: inc/mt-theme-settings.php:376
+msgid "Click to import demo"
+msgstr ""
+
+#: inc/mt-theme-settings.php:156
+#, php-format
+msgid ""
+"Clicking get started will process to installation of %1$s Mystery Themes "
+"Demo Importer %2$s Plugin in your dashboard. After success it will redirect "
+"to the theme settings page."
+msgstr ""
+
+#: inc/mt-theme-settings.php:559
+msgid "Custom 404 Page"
+msgstr ""
+
+#: inc/widgets/sps-slider-widget.php:115
+msgid "Default Categories"
+msgstr ""
+
+#: inc/widgets/sps-slider-widget.php:32 inc/widgets/sps-slider-widget.php:37
+msgid "Default Category"
+msgstr ""
+
+#: inc/mt-theme-settings.php:378
+msgid "Demo importer plugin is not installed or activated"
+msgstr ""
+
+#: inc/mt-theme-settings.php:206
+msgid "Demos"
+msgstr ""
+
+#: inc/customizer.php:72
+msgid "Description"
+msgstr ""
+
+#: inc/customizer.php:77
+msgid "Description ( Two )"
+msgstr ""
+
+#: inc/mt-theme-settings.php:262
+msgid "Design Settings"
+msgstr ""
+
+#: inc/mt-theme-settings.php:149
+msgid "Dismiss this notice."
+msgstr ""
+
+#: inc/widgets/sps-slider-widget.php:18
+msgid "Display posts from selected category as slider."
+msgstr ""
+
+#: inc/widgets/sps-services.php:18
+msgid "Display services images."
+msgstr ""
+
+#: inc/mt-theme-settings.php:277
+msgid "Documentation"
+msgstr ""
+
+#: inc/mt-theme-settings.php:159
+msgid "Done!"
+msgstr ""
+
+#: inc/widgets/sps-slider-widget.php:200
+msgid "Featured Image"
+msgstr ""
+
+#: inc/widgets/sps-slider-widget.php:188
+msgid "Featured Item 1"
+msgstr ""
+
+#: inc/widgets/sps-slider-widget.php:183
+msgid "Featured Item 2"
+msgstr ""
+
+#: inc/widgets/sps-slider-widget.php:74
+msgid "Featured Products"
+msgstr ""
+
+#: inc/widgets/sps-slider-widget.php:44
+msgid "Featured Products Section"
+msgstr ""
+
+#: inc/widgets/sps-slider-widget.php:153
+msgid "Featured Section"
+msgstr ""
+
+#: inc/mt-theme-settings.php:517
+msgid "Features"
+msgstr ""
+
+#: inc/mt-theme-settings.php:525
+msgid "Free"
+msgstr ""
+
+#: inc/mt-theme-settings.php:210
+msgid "Free Vs Pro"
+msgstr ""
+
+#: inc/mt-theme-settings.php:579
+msgid "GDPR Compatible"
+msgstr ""
+
+#: inc/mt-theme-settings.php:202
+msgid "Get Started"
+msgstr ""
+
+#: inc/mt-theme-settings.php:160
+#, php-format
+msgid "Get started with %1$s"
+msgstr ""
+
+#: inc/mt-theme-settings.php:302
+msgid "Go to Dashboard"
+msgstr ""
+
+#: inc/mt-theme-settings.php:302
+msgid "Go to Dashboard &rarr; Home"
+msgstr ""
+
+#: inc/mt-theme-settings.php:564
+msgid "Google Fonts"
+msgstr ""
+
+#: inc/mt-theme-settings.php:666
+msgid "Got theme support question?"
+msgstr ""
+
+#: inc/mt-theme-settings.php:534
+msgid "Header Layouts"
+msgstr ""
+
+#: inc/mt-theme-settings.php:253
+msgid "Here are some useful links for you to get started"
+msgstr ""
+
+#: inc/mt-theme-settings.php:259
+msgid "Homepage Slider"
+msgstr ""
+
+#: inc/mt-theme-settings.php:640
+#, php-format
+msgid ""
+"Howdy, %1$s! It seems that you have been using this theme for more than 15 "
+"days. We hope you are happy with everything that the theme has to offer. If "
+"you can spare a minute, please help us by leaving a 5-star review on "
+"WordPress.org.  By spreading the love, we can continue to develop new "
+"amazing features in the future, for free!"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://mysterythemes.com"
+msgstr ""
+
+#: inc/mt-theme-settings.php:661
+msgid "I already did"
+msgstr ""
+
+#: inc/mt-theme-settings.php:747
+#, php-format
+msgid ""
+"If you like <strong>%1$s</strong> please leave us a %2$s rating. A huge "
+"thank you from <strong>Mystery Themes</strong> in advance &#128515!"
+msgstr ""
+
+#: inc/mt-theme-settings.php:554
+msgid "Image Hover Features"
+msgstr ""
+
+#: inc/widgets/sps-slider-widget.php:206
+msgid "Image Link"
+msgstr ""
+
+#: inc/mt-theme-settings.php:382
+msgid "Import"
+msgstr ""
+
+#: inc/mt-theme-settings.php:381
+#, php-format
+msgid "Import %1$s"
+msgstr ""
+
+#: inc/mt-theme-settings.php:371
+msgid "Imported"
+msgstr ""
+
+#: inc/mt-theme-settings.php:370
+#, php-format
+msgid "Imported %1$s"
+msgstr ""
+
+#: inc/widgets/sps-services.php:39
+msgid "Info"
+msgstr ""
+
+#: inc/mt-theme-settings.php:771
+msgid "Install and Activate"
+msgstr ""
+
+#: inc/mt-theme-settings.php:770
+msgid "Installed & Activated"
+msgstr ""
+
+#: inc/mt-theme-settings.php:770
+msgid "Installing & Activating"
+msgstr ""
+
+#. If there are characters in your language that are not supported
+#. by Muli font, translate this to 'off'. Do not translate into your own language.
+#: functions.php:58
+msgctxt "Khula font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/mt-theme-settings.php:265
+msgid "Manage menus"
+msgstr ""
+
+#: inc/mt-theme-settings.php:268
+msgid "Manage Social Icons"
+msgstr ""
+
+#: inc/mt-theme-settings.php:656
+msgid "Maybe later"
+msgstr ""
+
+#: inc/mt-theme-settings.php:274
+msgid "More Actions"
+msgstr ""
+
+#: inc/widgets/sps-services.php:21
+msgid "MT: Services"
+msgstr ""
+
+#: inc/widgets/sps-slider-widget.php:21
+msgid "MT: Slider"
+msgstr ""
+
+#. Author of the theme
+msgid "Mystery Themes"
+msgstr ""
+
+#: inc/mt-theme-settings.php:776
+msgid "Mystery Themes Demo Importer Plugin is installed but not activated!"
+msgstr ""
+
+#: inc/mt-theme-settings.php:769
+msgid "Mystery Themes Demo Importer Plugin is not installed!"
+msgstr ""
+
+#: inc/mt-theme-settings.php:283
+msgid "Need theme support?"
+msgstr ""
+
+#: inc/mt-theme-settings.php:256
+msgid "Next Steps"
+msgstr ""
+
+#: inc/mt-theme-settings.php:338
+msgid "No demos are configured for this theme, please contact the theme author"
+msgstr ""
+
+#: inc/mt-theme-settings.php:893
+msgid "Plugin installed successfully"
+msgstr ""
+
+#: inc/mt-theme-settings.php:812
+msgid "Plugin Successfully Activated."
+msgstr ""
+
+#: inc/widgets/sps-slider-widget.php:131
+msgid "Post Count"
+msgstr ""
+
+#: inc/mt-theme-settings.php:549
+msgid "Post Review"
+msgstr ""
+
+#: inc/mt-theme-settings.php:529
+msgid "Pre Loaders Layouts"
+msgstr ""
+
+#: inc/mt-theme-settings.php:280
+msgid "Premium version"
+msgstr ""
+
+#: inc/mt-theme-settings.php:524
+msgid "Price"
+msgstr ""
+
+#: inc/mt-theme-settings.php:159
+msgid "Processing"
+msgstr ""
+
+#: inc/widgets/sps-slider-widget.php:123
+msgid "Product Categories"
+msgstr ""
+
+#: inc/widgets/sps-slider-widget.php:33
+msgid "Product Category"
+msgstr ""
+
+#: inc/mt-theme-settings.php:420
+msgid "Purchase Now"
+msgstr ""
+
+#: inc/mt-theme-settings.php:299
+msgid "Return to Dashboard &rarr; Updates"
+msgstr ""
+
+#: inc/mt-theme-settings.php:299
+msgid "Return to Updates"
+msgstr ""
+
+#: inc/mt-theme-settings.php:286
+msgid "Review theme"
+msgstr ""
+
+#. If there are characters in your language that are not supported
+#. by Roboto font, translate this to 'off'. Do not translate into your own language.
+#: functions.php:66
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/widgets/sps-services.php:32
+msgid "Section Title"
+msgstr ""
+
+#: inc/customizer.php:67
+msgid "Service Icon"
+msgstr ""
+
+#: inc/customizer.php:61
+msgid "Service Item"
+msgstr ""
+
+#: inc/widgets/sps-services.php:33
+msgid "Services"
+msgstr ""
+
+#: inc/customizer.php:60
+msgid "Services Items"
+msgstr ""
+
+#: inc/widgets/sps-services.php:40
+#, php-format
+msgid "Services items are managed from %1$s customizer panel %2$s."
+msgstr ""
+
+#: inc/mt-theme-settings.php:37
+msgid "Settings"
+msgstr ""
+
+#: inc/mt-theme-settings.php:518
+msgid "Shopay"
+msgstr ""
+
+#: inc/mt-theme-settings.php:519
+msgid "Shopay Pro"
+msgstr ""
+
+#. Name of the theme
+#: inc/customizer.php:28
+msgid "Shopay Store"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Shopay Store is the child theme of Shopay which is highly customizable and "
+"beautifully designed WordPress theme built-in with full WooCommerce support. "
+"The theme is perfectly integrated with any kinds of e-commerce stores loaded "
+"with all the extensive functionality and features. It is fully compatible "
+"with WooCommerce and YITH WooCommerce plugins to provide ultimate eCommerce "
+"value. Additionally, theme features color options, 7+homepage widgets , "
+"sidebar layouts, header and footer customization and many more.The theme "
+"comes with a comprehensive documentation guide that helps you to build a "
+"unique website from the root. It is built-in with a customizer that enables "
+"you to configure with live preview. Besides these, it is fully responsive "
+"and mobile-friendly that fits well on any types of devices. With the support "
+"of  one-click demo import plugin, turn your website into a mind-blowing "
+"online store. Get the demo at https://demo.mysterythemes.com/child-"
+"theme/shopay-store/"
+msgstr ""
+
+#: inc/widgets/sps-slider-widget.php:50
+msgid "Show Featured Products"
+msgstr ""
+
+#: inc/widgets/sps-slider-widget.php:159
+msgid "Show Featured Section"
+msgstr ""
+
+#: inc/widgets/sps-slider-widget.php:146
+msgid "Show or hide slider content. Display only post thumbnail"
+msgstr ""
+
+#: inc/widgets/sps-slider-widget.php:145
+msgid "Show Slider Content"
+msgstr ""
+
+#: inc/mt-theme-settings.php:544
+msgid "Single Page Layouts"
+msgstr ""
+
+#: inc/widgets/sps-slider-widget.php:138
+msgid "Slide button text"
+msgstr ""
+
+#: inc/widgets/sps-slider-widget.php:80
+msgid "Slider Section"
+msgstr ""
+
+#: inc/mt-theme-settings.php:830
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr ""
+
+#: inc/mt-theme-settings.php:651
+msgid "Sure"
+msgstr ""
+
+#: inc/widgets/sps-slider-widget.php:73 inc/widgets/sps-slider-widget.php:211
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/sps-slider-widget.php:212
+msgid "Trending"
+msgstr ""
+
+#: inc/widgets/sps-slider-widget.php:51
+msgid "Two latest featured products are listed."
+msgstr ""
+
+#: inc/mt-theme-settings.php:569
+msgid "Typography Options"
+msgstr ""
+
+#: inc/mt-theme-settings.php:875
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr ""
+
+#: inc/mt-theme-settings.php:195
+msgid "Unlock Features With Pro"
+msgstr ""
+
+#: inc/mt-theme-settings.php:192
+msgid "Upgrade to Premium Version"
+msgstr ""
+
+#: inc/mt-theme-settings.php:193
+msgid "Upgrade to pro version for additional features and better supports."
+msgstr ""
+
+#: inc/mt-theme-settings.php:513
+msgid "Upgrade to PRO version for more exciting features."
+msgstr ""
+
+#: inc/mt-theme-settings.php:185
+#, php-format
+msgid "Version: %1$s"
+msgstr ""
+
+#: inc/mt-theme-settings.php:460
+msgid "View changelog below:"
+msgstr ""
+
+#: inc/mt-theme-settings.php:388 inc/mt-theme-settings.php:427
+msgid "View Demo"
+msgstr ""
+
+#: inc/mt-theme-settings.php:151
+#, php-format
+msgid "Welcome to %s"
+msgstr ""
+
+#: inc/mt-theme-settings.php:153
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing %1$s ! To fully take advantage of the best "
+"our theme can offer please make sure you visit our %2$s theme settings page "
+"%3$s."
+msgstr ""
+
+#: inc/mt-theme-settings.php:574
+msgid "WooCommerce Plugin Compatible"
+msgstr ""
+
+#: inc/mt-theme-settings.php:289
+msgid "WP Tutorials"
+msgstr ""
+
+#: inc/mt-theme-settings.php:765
+msgid "You can import available demos now!"
+msgstr ""
